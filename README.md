@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Mazhar Hayat
+### 🚀 Front-End Developer | UI/UX Enthusiast
 
-<!--
-**mazharhayat-dev/mazharhayat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Front-End Developer** from Pakistan 🇵🇰, dedicated to building responsive, high-performance, and user-friendly web applications. I love turning complex problems into elegant digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **🌐 Languages:** HTML5, CSS3, JavaScript (ES6+), PHP
+- **⚛️ Frameworks:** React.js, Tailwind CSS, Bootstrap
+- **🛠 Tools:** Git, GitHub, VS Code
+
+---
+
+### 🔭 Projects & Goals
+- 🔭 I’m currently working on building my **Personal Portfolio**.
+- 🌱 I’m currently learning **Advanced React** and **API Integration**.
+- 💬 Ask me about **Web Design**, **Frontend Development**, or **React.js**.
+
+---
+
+##### 🔗 Connect with me:
+- **LinkedIn:** [Mazhar Hayat](https://linkedin.com)
+- **Email:** [mazharhayatdev@gmail.com](mailto:mazharhayatdev@gmail.com)
+- 
+
+
+
+---
+
+### 📊 GitHub Activity
+- 🔭 I’m currently working on Web Development projects.
+- 🌱 Learning new technologies every day.
+- 
