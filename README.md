@@ -29,5 +29,12 @@ I am a passionate **Front-End Developer** from Pakistan 🇵🇰, dedicated to b
 - **📧 Email:** [mazharhayatdev@gmail.com](mailto:mazharhayatdev@gmail.com)
 - **🌐 Portfolio:** [mazharhayatdev.azurewebsites.net](https://mazharhayatdev.azurewebsites.net)
 
+
+ai-reseach-app.vercel.app
+(https://ai-reseach-app-git-main-mazharhayat-devs-projects.vercel.app)
+
+developer-folio-murex.vercel.app
+developer-folio-bdvc1f51k-mazharhayat-devs-projects.vercel.app
+
 ---
 ![](https://komarev.com/ghpvc/?username=mazharhayat-dev&color=0e75b6&style=flat)
