@@ -1,40 +1,93 @@
-# Hi 👋, I'm Mazhar Hayat
+Hi 👋, I'm Mazhar Hayat
 
-### 🚀 Front-End Developer | ASP.NET Core | UI/UX Enthusiast
+💻 .NET Developer | ASP.NET Core MVC | React.js | AI Integration
 
-I am a passionate **Front-End Developer** from Pakistan 🇵🇰, dedicated to building responsive, high-performance, and user-friendly web applications. I love turning complex problems into elegant digital experiences.
+I'm a passionate developer focused on building modern, responsive, and user-friendly web applications.
 
----
-### 🛠 Tech Stack
+I enjoy solving real-world problems through software development, exploring AI technologies, and continuously improving my technical skills.
 
-- **🌐 Languages:** HTML5, CSS3, JavaScript (ES6+), C#, PHP
-- **⚛️ Frameworks:** React.js, Tailwind CSS, Bootstrap, ASP.NET Core 8 MVC
-- **🛠 Tools:** Git, GitHub, VS Code, Azure, SQL Server
+🌍 Originally from Pakistan 🇵🇰
 
 ---
-### 🚀 Featured Project
-**🌐 Live Portfolio:** [mazharhayatdev.azurewebsites.net](https://mazharhayatdev.azurewebsites.net)
-> Built with ASP.NET Core 8 MVC, Clean Architecture & Deployed on Azure via GitHub Actions
+
+🛠️ Tech Stack
+
+Languages
+
+- C#
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- PHP
+
+Frameworks & Technologies
+
+- ASP.NET Core 8 MVC
+- Entity Framework Core
+- React.js
+- Bootstrap
+- Tailwind CSS
+- REST APIs
+
+Database & Tools
+
+- SQL Server
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Microsoft Azure
 
 ---
-### 🔭 Current Focus
-- 🔭 Building my Personal Portfolio
-- 🌱 Learning Advanced React, API Integration & .NET Clean Architecture
-- 🎯 Goal: Full-Stack .NET Developer
+
+🚀 Featured Projects
+
+1. MataamPro
+Restaurant Management System.
+
+2. AI Research App
+AI-powered research application.
+
+Live Demo:
+https://ai-reseach-app.vercel.app
+
+3. Developer Portfolio
+My personal developer portfolio.
+
+Live Portfolio:
+https://developer-folio-murex.vercel.app
 
 ---
-### 🔗 Connect with me:
 
-- **💼 LinkedIn:** [Mazhar Hayat](https://www.linkedin.com/in/mazhar-hayat-64a064204)
-- **📧 Email:** [mazharhayatdev@gmail.com](mailto:mazharhayatdev@gmail.com)
-- **🌐 Portfolio:** [mazharhayatdev.azurewebsites.net](https://mazharhayatdev.azurewebsites.net)
+🎯 Current Focus
 
-
-ai-reseach-app.vercel.app
-(https://ai-reseach-app-git-main-mazharhayat-devs-projects.vercel.app)
-
-developer-folio-murex.vercel.app
-developer-folio-bdvc1f51k-mazharhayat-devs-projects.vercel.app
+- Improving ASP.NET Core MVC skills.
+- Building real-world .NET applications.
+- Learning AI Integration and API development.
+- Practicing software architecture and clean code.
+- Exploring remote software development opportunities.
 
 ---
-![](https://komarev.com/ghpvc/?username=mazharhayat-dev&color=0e75b6&style=flat)
+
+📊 GitHub Statistics
+
+https://komarev.com/ghpvc/?username=mazharhayat-dev&color=0e75b6&style=flat
+
+---
+
+🤝 Let's Connect
+
+💼 LinkedIn:
+https://www.linkedin.com/in/mazhar-hayat-64a064204
+
+📧 Email:
+mazharhayatdev@gmail.com
+
+🌐 Portfolio:
+https://developer-folio-murex.vercel.app
+
+---
+
+💡 My Philosophy
+
+"Build. Learn. Improve. Repeat."
+
+I believe consistency, practical experience, and continuous learning are the keys to becoming a better developer.
